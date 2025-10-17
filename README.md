@@ -23,4 +23,4 @@ You can use both `tcp` and `http` command to tunnel an `HTTP` server. And option
 
 ## Demo
 
-![Demo](snapshots/demo.gif)
+![Demo](snapshot/demo.gif)
